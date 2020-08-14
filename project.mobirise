@@ -1073,27 +1073,6 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/02-1.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "alt": "",
-                "title": "",
-                "textTitle": "<b><br></b><br><b>Forex Trading Academy</b>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "<b>We teach you the secrets to the art of Forex Mastery. Let our proven guide</b><br><b>to Forex training help you!<br></b><br><br><b><br></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Learn More</a>  ",
-                "overlayColor": "#5849aa",
-                "overlayOpacity": "0.3"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/06.jpg",
                 "active": false,
                 "showButtons": true,
@@ -1131,6 +1110,27 @@
                 "contentAlign": "left",
                 "text": "<b>Start Trading with Confidence with our roubust expert advisory services </b><br><b>for pratical trading solutions.</b><br><br><b><br></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"#\" data-toolbar=\"-mbrBtnMove\"><strong>LEARN MORE</strong></a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/02-1.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "<b><br></b><br><b>Forex Trading Academy</b>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "<b>We teach you the secrets to the art of Forex Mastery. Let our proven guide</b><br><b>to Forex training help you!<br></b><br><br><b><br></b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Learn More</a>  ",
+                "overlayColor": "#5849aa",
+                "overlayOpacity": "0.3"
               }
             ]
           }
