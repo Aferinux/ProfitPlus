@@ -41,7 +41,7 @@
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/logo1-128x100.png",
     "cssOptimize": false,
-    "lazyLoad": true,
+    "lazyLoad": false,
     "lazyType": "placeholder",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
